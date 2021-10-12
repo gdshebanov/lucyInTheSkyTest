@@ -1,0 +1,19 @@
+.notSelectedSize {
+    margin: 2px;
+    padding-left: 2px;
+    padding-right: 2px;
+    cursor: pointer;
+    color: blue;
+    border: 1px solid blue;
+}
+
+.selectedSize {
+    display: 'inline-block';
+    margin: 2px;
+    padding-left: 2px;
+    padding-right: 2px;
+    border: 1px solid blue;
+    cursor: 'pointer';
+    background: blue;
+    color: white
+}
